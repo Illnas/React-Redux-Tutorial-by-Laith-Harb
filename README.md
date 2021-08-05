@@ -14,3 +14,7 @@ projects myself!
 Well, gonna do one more redux tutorial tomorrow. And then I will start with simple
 introduction into each and every hook React has. And then start with those React projects 
 from freeCodeCamp blog.
+
+
+
+Url: https://www.youtube.com/watch?v=9jULHSe41ls&list=PL6-RV8_Xfo6Hy4qvSWNWPVZBi1yTxjjEE&index=4
